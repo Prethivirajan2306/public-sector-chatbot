@@ -4,7 +4,7 @@ A high-performance, modern React chatbot interface built for internal organizati
 
 Built with **Vite** and **React**, this project is simple, responsive, and ready to be connected to a real backend LLM.
 
-![Preview](preview-placeholder.png) <!-- Add a screenshot of the app here later! -->
+![Preview](preview.png.png) <!-- Add a screenshot of the app here later! -->
 
 ## 🚀 Features
 
